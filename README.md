@@ -21,9 +21,15 @@ link_drugs -d data/drugs.csv -c data/clinical_trials.csv -pc data/pubmed.csv  -p
 adhoc_processing -o output.json 
 ```
 
+You can also run tests with pytests using (remember to switch to an eventual venv / conda env):
+```shell
+pip install -r requirements_dev.txt
+cd tests
+pytest -vv .
+
+```
 ## Improvements:
 
-- write unit test for each module to validate the logic and integration
 - Dockerize the package, and thanks to the structure and already made entrypoints, integrating with job orchestrator (e.g. Argo / Airflow)
 won't required any major code refactoring
 
