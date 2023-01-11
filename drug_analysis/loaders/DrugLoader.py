@@ -24,7 +24,7 @@ class DrugLoader(Loader):
         drugs_list = []
         for ix, data_line in enumerate(raw_data):
             if len(data_line) != 2:
-                raise Exception(f"was expecting 2 columns in {self.file_path}, but {len(data_line)} was found")
+                raise ValueError(f"was expecting 2 columns in {self.file_path}, but {len(data_line)} was found")
 
             if not all(data_line.values()):
                 logger.warning(f"line {ix +1} in {self.file_path}, investigate")

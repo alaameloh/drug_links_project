@@ -21,7 +21,7 @@ class Loader:
         elif file_path.endswith(".json"):
             raw_data = self.read_json(file_path)
         else:
-            raise NotImplementedError("non handled file format")
+            raise NotImplementedError(f"non handled file format {file_path}")
         return raw_data
 
     @staticmethod

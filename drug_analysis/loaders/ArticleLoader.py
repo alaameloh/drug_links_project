@@ -28,7 +28,7 @@ class ArticleLoader(Loader):
         article_list = []
         for ix, data_line in enumerate(raw_data):
             if len(data_line) != 4:
-                raise Exception(f"was expecting 4 columns in {self.file_path}, but {len(data_line)} was found")
+                raise ValueError(f"was expecting 4 columns in {self.file_path}, but {len(data_line)} was found")
 
             title_column = "scientific_title" if "scientific_title" in data_line else "title" # to adapt to article format
 

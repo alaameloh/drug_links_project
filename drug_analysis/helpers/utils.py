@@ -29,4 +29,4 @@ def write_graph(graph: List[Dict], file_path):
     :return: void
     """
     with open(file_path, 'w', encoding='utf8') as f:
-        json5.dump(graph, f)
+        json5.dump(graph, f, indent=2)
