@@ -25,6 +25,6 @@ setup(
     author_email="alaa.houimel@gmail.com",
     install_requires=install_requires,
     license="MIT",
-    packages=find_namespace_packages(exclude="data"),
+    packages=find_namespace_packages(exclude=["data", "tests"]),
     entry_points={"console_scripts": console_scripts},
 )
