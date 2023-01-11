@@ -1,0 +1,220 @@
+[
+  {
+    drug_name: "diphenhydramine",
+    drug_atc_code: "A04AD",
+    journals: [
+      {
+        referenced_in: "Journal of emergency nursing",
+        reference_date: "01/01/2019",
+      },
+      {
+        referenced_in: "Journal of emergency nursing",
+        reference_date: "01/01/2019",
+      },
+      {
+        referenced_in: "The Journal of pediatrics",
+        reference_date: "01/02/2019",
+      },
+      {
+        referenced_in: "Journal of emergency nursing",
+        reference_date: "01/01/2020",
+      },
+      {
+        referenced_in: "Journal of emergency nursing",
+        reference_date: "01/01/2020",
+      },
+      {
+        referenced_in: "Journal of emergency nursing",
+        reference_date: "01/01/2020",
+      },
+    ],
+    clinical_trials: [
+      {
+        referenced_in: "use of diphenhydramine as an adjunctive sedative for colonoscopy in patients chronically on opioids",
+        reference_date: "01/01/2020",
+      },
+      {
+        referenced_in: "phase 2 study iv quzyttir\u2122 (cetirizine hydrochloride injection) vs v diphenhydramine",
+        reference_date: "01/01/2020",
+      },
+      {
+        referenced_in: "feasibility of a randomized controlled clinical trial comparing the use of cetirizine to replace diphenhydramine in the prevention of reactions related to paclitaxel",
+        reference_date: "01/01/2020",
+      },
+    ],
+    pubmed: [
+      {
+        referenced_in: "a 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations",
+        reference_date: "01/01/2019",
+      },
+      {
+        referenced_in: "an evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy.",
+        reference_date: "01/01/2019",
+      },
+      {
+        referenced_in: "diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning.",
+        reference_date: "01/02/2019",
+      },
+    ],
+  },
+  {
+    drug_name: "tetracycline",
+    drug_atc_code: "S03AA",
+    journals: [
+      {
+        referenced_in: "Journal of food protection",
+        reference_date: "01/01/2020",
+      },
+      {
+        referenced_in: "American journal of veterinary research",
+        reference_date: "01/02/2020",
+      },
+      {
+        referenced_in: "Psychopharmacology",
+        reference_date: "01/01/2020",
+      },
+    ],
+    clinical_trials: [],
+    pubmed: [
+      {
+        referenced_in: "tetracycline resistance patterns of lactobacillus buchneri group strains.",
+        reference_date: "01/01/2020",
+      },
+      {
+        referenced_in: "appositional tetracycline bone formation rates in the beagle.",
+        reference_date: "01/02/2020",
+      },
+      {
+        referenced_in: "rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+        reference_date: "01/01/2020",
+      },
+    ],
+  },
+  {
+    drug_name: "ethanol",
+    drug_atc_code: "V03AB",
+    journals: [
+      {
+        referenced_in: "Psychopharmacology",
+        reference_date: "01/01/2020",
+      },
+    ],
+    clinical_trials: [],
+    pubmed: [
+      {
+        referenced_in: "rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+        reference_date: "01/01/2020",
+      },
+    ],
+  },
+  {
+    drug_name: "atropine",
+    drug_atc_code: "A03BA",
+    journals: [
+      {
+        referenced_in: "The journal of maternal-fetal & neonatal medicine",
+        reference_date: "03/01/2020",
+      },
+    ],
+    clinical_trials: [],
+    pubmed: [
+      {
+        referenced_in: "comparison of pressure betamethasone release, phonophoresis and dry needling in treatment of latent myofascial trigger point of upper trapezius atropine muscle.",
+        reference_date: "03/01/2020",
+      },
+    ],
+  },
+  {
+    drug_name: "epinephrine",
+    drug_atc_code: "A01AD",
+    journals: [
+      {
+        referenced_in: "The journal of allergy and clinical immunology. In practice",
+        reference_date: "02/01/2020",
+      },
+      {
+        referenced_in: "The journal of allergy and clinical immunology. In practice",
+        reference_date: "03/01/2020",
+      },
+      {
+        referenced_in: "Journal of emergency nursing\\xc3\\x28",
+        reference_date: "27/04/2020",
+      },
+    ],
+    clinical_trials: [
+      {
+        referenced_in: "tranexamic acid versus epinephrine during exploratory tympanotomy",
+        reference_date: "27/04/2020",
+      },
+    ],
+    pubmed: [
+      {
+        referenced_in: "the high cost of epinephrine autoinjectors and possible alternatives.",
+        reference_date: "02/01/2020",
+      },
+      {
+        referenced_in: "time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained rosc after traumatic out-of-hospital cardiac arrest.",
+        reference_date: "03/01/2020",
+      },
+    ],
+  },
+  {
+    drug_name: "isoprenaline",
+    drug_atc_code: "6302001",
+    journals: [
+      {
+        referenced_in: "Journal of photochemistry and photobiology. B, Biology",
+        reference_date: "01/01/2020",
+      },
+    ],
+    clinical_trials: [],
+    pubmed: [
+      {
+        referenced_in: "gold nanoparticles synthesized from euphorbia fischeriana root by green route method alleviates the isoprenaline hydrochloride induced myocardial infarction in rats.",
+        reference_date: "01/01/2020",
+      },
+    ],
+  },
+  {
+    drug_name: "betamethasone",
+    drug_atc_code: "R01AD",
+    journals: [
+      {
+        referenced_in: "The journal of maternal-fetal & neonatal medicine",
+        reference_date: "01/01/2020",
+      },
+      {
+        referenced_in: "Journal of back and musculoskeletal rehabilitation",
+        reference_date: "01/01/2020",
+      },
+      {
+        referenced_in: "The journal of maternal-fetal & neonatal medicine",
+        reference_date: "03/01/2020",
+      },
+      {
+        referenced_in: "H\u00f4pitaux Universitaires de Gen\u00e8ve",
+        reference_date: "01/01/2020",
+      },
+    ],
+    clinical_trials: [
+      {
+        referenced_in: "preemptive infiltration with betamethasone and ropivacaine for postoperative pain in laminoplasty or \\xc3\\xb1 laminectomy",
+        reference_date: "01/01/2020",
+      },
+    ],
+    pubmed: [
+      {
+        referenced_in: "clinical implications of umbilical artery doppler changes after betamethasone administration",
+        reference_date: "01/01/2020",
+      },
+      {
+        referenced_in: "effects of topical application of betamethasone on imiquimod-induced psoriasis-like skin inflammation in mice.",
+        reference_date: "01/01/2020",
+      },
+      {
+        referenced_in: "comparison of pressure betamethasone release, phonophoresis and dry needling in treatment of latent myofascial trigger point of upper trapezius atropine muscle.",
+        reference_date: "03/01/2020",
+      },
+    ],
+  },
+]
